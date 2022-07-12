@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Peshani Umodhya</h1>
+<h1>Hi 👋, I'm Sudaraka Gunathilaka</h1>
 <h3>Undergraduate In SLIIT @SriLanka</h3>
 
 

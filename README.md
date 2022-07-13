@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help  *for my Projects*..
 
-- 📫 How to reach me *peshaniumodhya@gmail.com*
+- 📫 How to reach me *sudarakagunathilaka650@gmail.com*
 
 <!-- - 🤔 I’m looking for help with *My projects* -->
 

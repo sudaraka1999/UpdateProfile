@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/peshani-rathnasooriya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulaj-thi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sudaraka-gunathilaka-111a821b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulaj-thi" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/__peshu__umodhya_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="woofie_mr.69" height="30" width="40" /></a>
-<a href = 'https://github.com/IT20156206'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="woofie_mr.69" height="30" width="40" /></a>
+<a href = 'https://github.com/sudaraka1999'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 </p>
 
@@ -52,16 +52,16 @@
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=IT20156206&show_icons=true&theme=cobalt2&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=IT20156206&theme=cobalt2&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=IT201888186&show_icons=true&theme=cobalt2&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=IT20188818&theme=cobalt2&hide_border=true" />
 </p>
 <br>
 
-[![Peshani Umodhya' Activity Graph](https://activity-graph.herokuapp.com/graph?username=IT20156206&custom_title=Peshani's%20Contribution%20Graph&theme=cobalt2&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
+[![Sudaraka Gunathilaka' Activity Graph](https://activity-graph.herokuapp.com/graph?username=IT20188818&custom_title=Sudaraka's%20Contribution%20Graph&theme=cobalt2&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
 
 <hr>
 <p align="left">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT20156206&layout=compact&theme=cobalt2&hide_border=true" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT20188818&layout=compact&theme=cobalt2&hide_border=true" />
      <img width="35%" align="right" src= https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png>
     
   

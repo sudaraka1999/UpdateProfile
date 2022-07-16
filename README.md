@@ -51,19 +51,11 @@
 
 
 <br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=IT201888186&show_icons=true&theme=cobalt2&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=IT20188818&theme=cobalt2&hide_border=true" />
-</p>
+
 <br>
 
-[![Sudaraka Gunathilaka' Activity Graph](https://activity-graph.herokuapp.com/graph?username=IT20188818&custom_title=Sudaraka's%20Contribution%20Graph&theme=cobalt2&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
 
 <hr>
-<p align="left">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT20188818&layout=compact&theme=cobalt2&hide_border=true" />
-     <img width="35%" align="right" src= https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png>
-    
-  
+
 </p>
 <br>
